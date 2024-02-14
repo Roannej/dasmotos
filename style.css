@@ -8,7 +8,7 @@ body {
 .header {
     margin: 70px 0px;
     padding: 0;
-    background-image: url("/resources/images/pattern.jpeg");
+    background-image: url("resources/images/pattern.jpeg");
     background-size: auto;
     height: auto;
     width: auto;
